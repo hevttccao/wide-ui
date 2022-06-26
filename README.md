@@ -1,13 +1,14 @@
 # wide-ui
 
-## Project setup
+### 安装
 ```
-yarn install
+yarn add wide-ui
 ```
 
-### Compiles and hot-reloads for development
+### 全局引入
 ```
-yarn serve
+import WideUI from 'wide-ui'
+import ''
 ```
 
 ### Compiles and minifies for production
